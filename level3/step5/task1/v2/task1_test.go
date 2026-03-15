@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	reference "github.com/galiullindo/yandex_go1_step_by_step/level3/step5/task1/v2/internal"
+	reference "github.com/galiullindo/go-1-step-by-step/level3/step5/task1/v2/internal"
 )
 
 func TestSolution(t *testing.T) {

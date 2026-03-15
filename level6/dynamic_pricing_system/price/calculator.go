@@ -4,9 +4,9 @@ import (
 	"math"
 	"time"
 
-	"github.com/galiullindo/yandex_go1_step_by_step/level6/dynamic_pricing_system/timeofday"
-	"github.com/galiullindo/yandex_go1_step_by_step/level6/dynamic_pricing_system/traffic"
-	"github.com/galiullindo/yandex_go1_step_by_step/level6/dynamic_pricing_system/weathr"
+	"github.com/galiullindo/go-1-step-by-step/level6/dynamic_pricing_system/timeofday"
+	"github.com/galiullindo/go-1-step-by-step/level6/dynamic_pricing_system/traffic"
+	"github.com/galiullindo/go-1-step-by-step/level6/dynamic_pricing_system/weathr"
 )
 
 type PriceCalculator struct {

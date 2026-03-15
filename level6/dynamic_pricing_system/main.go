@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/galiullindo/yandex_go1_step_by_step/level6/dynamic_pricing_system/price"
-	"github.com/galiullindo/yandex_go1_step_by_step/level6/dynamic_pricing_system/traffic"
-	"github.com/galiullindo/yandex_go1_step_by_step/level6/dynamic_pricing_system/weathr"
+	"github.com/galiullindo/go-1-step-by-step/level6/dynamic_pricing_system/price"
+	"github.com/galiullindo/go-1-step-by-step/level6/dynamic_pricing_system/traffic"
+	"github.com/galiullindo/go-1-step-by-step/level6/dynamic_pricing_system/weathr"
 )
 
 func main() {
